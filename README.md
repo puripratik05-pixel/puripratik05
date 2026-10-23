@@ -13,6 +13,6 @@ I am a curious engineer who believes in understanding systems from the lowest le
 - **Libraries/Tools:** NumPy, Matplotlib, AI APIs, Git
 - **Domains:** Signal Processing, Embedded Systems, Automation
 
-📫 **How to reach me:** [Your secure professional email]
+📫 **How to reach me:** puripratik05@gmail.com
 
 📊 **Check out my pinned repositories to see my latest work!**
